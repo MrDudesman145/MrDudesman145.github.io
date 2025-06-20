@@ -1,0 +1,39 @@
+/* Sets background color*/
+body {
+  background-color: lightgray
+}
+/* Configures text*/
+.p {
+  color: black;
+  font-size: 20px;
+}
+.pi {
+  color: black;
+  font-size: 20px;
+  text-align: center
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  background-color: gray;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 100px
+}
+/* Configures images */
+.PIPE {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+img {
+  border-style: groove;
+  border-color: black;
+  border-radius: 10px;
+  width: 400px
+}
